@@ -28,6 +28,18 @@ This portfolio includes multiple projects covering:
 
 Each project includes a brief description, tools used, and key insights.
 
+## 📂 View Projects
+
+[View Project](https://github.com/shambhavi04august-hub/-logistics-efficiency-dashboard)
+[View Project](https://github.com/shambhavi04august-hub/operations-analytics-dashboard.pbix)
+[View Project](https://github.com/shambhavi04august-hub/-logistics-excel-dashboard)
+[View Project](https://github.com/shambhavi04august-hub/-supply-chain-vendor-performance-dashboard)
+[View Project](https://github.com/shambhavi04august-hub/-supply-chain-capstone-analysis.xlsx)
+[View Project](https://github.com/shambhavi04august-hub/-supply-chain-data-analysis-dashboard)
+[View Project](https://github.com/shambhavi04august-hub/-global-superstore-sales-dashboard.pbix)
+[View Project](https://github.com/shambhavi04august-hub/-powerbi-logistics-dashboard.pbix-)
+[View Project](https://github.com/shambhavi04august-hub/-supply-chain-sql-analysis.sql)
+
 ## 📈 Skills Demonstrated
 
 * Data Cleaning & Transformation
