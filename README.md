@@ -1,2 +1,52 @@
-# -Data-Analytics-Portfolio
-This repository showcases a collection of data analytics projects demonstrating my ability to analyze datasets, build dashboards, and generate insights for data-driven decision-making. It highlights my proficiency in Microsoft Excel, Power BI, and SQL, along with skills in data cleaning, transformation, and visualization.
+# 📊 Data Analytics Portfolio
+
+## 📌 Overview
+
+This repository contains a collection of data analytics projects that demonstrate my ability to analyze datasets, develop dashboards, and generate actionable insights for data-driven decision-making. The work reflects practical applications of analytics in solving real-world problems.
+
+## 🎯 Objectives
+
+* Analyze and interpret data to identify trends and patterns
+* Create interactive dashboards for effective data visualization
+* Apply data-driven approaches to support decision-making
+* Present insights in a clear and structured manner
+
+## 🛠 Tools & Technologies
+
+* Microsoft Excel
+* Power BI
+* SQL
+
+## 📂 Projects
+
+This portfolio includes multiple projects covering:
+
+* Data cleaning and preprocessing
+* Exploratory Data Analysis (EDA)
+* Dashboard development
+* Business performance analysis
+
+Each project includes a brief description, tools used, and key insights.
+
+## 📈 Skills Demonstrated
+
+* Data Cleaning & Transformation
+* Data Analysis & Interpretation
+* Data Visualization
+* Dashboard Development
+* Insight Generation
+
+## 🚀 Highlights
+
+* Focus on real-world problem solving
+* Strong emphasis on visualization and storytelling
+* Structured and clear presentation of results
+
+## 👩‍💻 About Me
+
+I am a professional with a background in Logistics and Supply Chain Management (LSCM), as well as experience in the pharmaceutical and healthcare sectors. Alongside this, I have developed strong data analysis skills, enabling me to interpret data and generate insights that support operational efficiency and informed decision-making.
+
+## 🔗 Usage
+
+Each project is linked within this repository. Click on the project links to explore detailed analysis, dashboards, and findings.
+
